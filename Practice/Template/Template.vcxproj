@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{79C068EC-2252-40EF-97B2-A327E44CAC8D}</ProjectGuid>
+    <ProjectGuid>{663F4DF1-5260-4116-86B6-645F896D6954}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>upcasting2</RootNamespace>
+    <RootNamespace>Template</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
